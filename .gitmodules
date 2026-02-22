@@ -1,0 +1,3 @@
+[submodule "pps-lab00"]
+	path = pps-lab00
+	url = https://github.com/unibo-pps/pps-lab00.git
